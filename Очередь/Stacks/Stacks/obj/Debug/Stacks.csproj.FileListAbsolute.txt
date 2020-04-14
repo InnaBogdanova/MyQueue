@@ -1,0 +1,20 @@
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.Form1.resources
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.cache
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\Artem Boss\source\repos\Stacks\Stacks\obj\Debug\Stacks.pdb
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.Form1.resources
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.cache
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\Инноша\Desktop\Очередь\Stacks\Stacks\obj\Debug\Stacks.pdb
